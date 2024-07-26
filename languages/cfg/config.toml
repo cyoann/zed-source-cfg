@@ -1,0 +1,4 @@
+name = "Source CFG"
+grammar = "cfg"
+path_suffixes = ["cfg"]
+line_comments = ["// "]

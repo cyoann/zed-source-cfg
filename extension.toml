@@ -1,0 +1,11 @@
+id = "zed-source-cfg"
+name = "Zed Source CFG Highlighting"
+description = "Syntax highlighting for GoldSrc and Source Engine .cfg files in the Zed editor."
+version = "0.1.0"
+schema_version = 1
+authors = ["cyoann"]
+repository = "https://github.com/cyoann/zed-source-cfg"
+
+[grammars.cfg]
+repository = "https://github.com/LeviOP/tree-sitter-cfg"
+commit = "a097eb08657cc3f0bb5e79dcc106563f74f0f13a"
